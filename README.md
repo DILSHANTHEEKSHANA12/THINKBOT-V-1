@@ -18,3 +18,6 @@
 ## USE THIS BUTTON TO RUN OUR BOT
 
 [![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://replit.com/@DilshanGothayo/thinkbot-6?v=1)
+
+
+## WHAIT FOR SOON OUR BOT DEPLOY KEY IS GENERATING TO 😃 MULTI DIVICE🙂
